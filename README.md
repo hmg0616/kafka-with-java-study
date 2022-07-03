@@ -10,7 +10,8 @@
 ## 일정
 * 1주차(2022/06/16) : [**1장 ~ 2장 카프카 빠르게 시작해보기**](https://github.com/hmg0616/kafka-with-java-study/issues/1)
 * 2주차(2022/06/23) : [**3장 카프카 기본 개념 설명 (3.1~3.3)**](https://github.com/hmg0616/kafka-with-java-study/issues/2)
-* 3주차(2022/06/30) : [**3장 카프카 기본 개념 설명 (3.4~3.5)**](https://github.com/hmg0616/kafka-with-java-study/issues/3)
+* 3주차(2022/06/30) : [**3장 카프카 기본 개념 설명 (3.4~3.5 카프카 스트림즈)**](https://github.com/hmg0616/kafka-with-java-study/issues/3)
+* 4주차(2022/06/30) : [**3장 카프카 기본 개념 설명 (3.6 커넥트 ~ 3.7 미러메이커)**](https://github.com/hmg0616/kafka-with-java-study/issues/4)
 
 
 ## 일정 안지킨 사람
